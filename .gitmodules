@@ -1,0 +1,6 @@
+[submodule "Socraticos API"]
+	path = Socraticos API
+	url = https://github.com/Aryan470/SocraticosAPI.git
+[submodule "Socraticos"]
+	path = Socraticos
+	url = https://github.com/Piphi5/Socraticos-App.git
